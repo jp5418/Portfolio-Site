@@ -5,7 +5,7 @@
 		margin: 0 auto;
 	}
 
-	.body_img {
+	.about_jake {
 		display: block;
 		max-width: 100%;
 		max-height: 100%;
@@ -21,7 +21,12 @@
 		margin: 5px 50px 5px 50px;
 	}
 
-	 .hr_header {
+	.hr_header {
+	    margin-left: 50px;
+	    margin-right: 50px;
+	}
+
+	.hr_projects {
 	    margin-left: 50px;
 	    margin-right: 50px;
 	}
@@ -62,7 +67,14 @@
 	    width: 33.3333%;
 	}
 
+	.hr_footer {
+	    margin-left: 50px;
+	    margin-right: 50px;
+	}
 
+	.footer {
+
+		margin: 5px 50px 5px 50px;
+	}
 
 }
-

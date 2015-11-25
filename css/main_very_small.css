@@ -2,22 +2,21 @@
 
 	.header_text {
 	  	width: 100%;
-	}	
+	}
 
 	.header_logo {
 		display: none;
 	}
 
 	.header_name {
-	  	font-size: 1.75em;
 	 	text-align: center;
-	}	
+	}
 
 	.header_title {
 	  	text-align: center;
 	}
 
-	.body_img {
+	.about_jake_pic {
 		display: none;
 	}
 
@@ -55,6 +54,24 @@
 
 	.feed_reader_img {
 	    display: none;
+	}
+
+	.social_header {
+	  	margin-right: 0px;
+	}
+
+	footer .social li {
+	  	float: right;
+	  	display: block;
+	  	margin-left: 5px;
+	}
+
+	.about_jake_body {
+		display: none;
+	}
+
+	.about_jake_body_short{
+	  display: block;
 	}
 
 }
