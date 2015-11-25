@@ -1,0 +1,60 @@
+@media only screen and (max-width: 320px) {
+
+	.header_text {
+	  	width: 100%;
+	}	
+
+	.header_logo {
+		display: none;
+	}
+
+	.header_name {
+	  	font-size: 1.75em;
+	 	text-align: center;
+	}	
+
+	.header_title {
+	  	text-align: center;
+	}
+
+	.body_img {
+		display: none;
+	}
+
+	.projects_header {
+	  	font-size: 1.75em;
+	}
+
+	.about_me_img {
+		display: none;
+	}
+
+	.portfolio_img {
+    	display: none;
+	}
+
+	.online_resume_img {
+	    display: none;
+	}
+
+	.arcade_game_img {
+	    display: none;
+	}
+
+	.website_optimization_img {
+	    display: none;
+	}
+
+	.neighborhood_map_img {
+	    display: none;
+	}
+
+	.health_tracker_img {
+	    display: none;
+	}
+
+	.feed_reader_img {
+	    display: none;
+	}
+
+}
